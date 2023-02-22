@@ -1,7 +1,7 @@
 # crush
 The crush is a wordlist maker for specific combinations with keywords for brute force optimization.
 
-# Requisitos
+# Requirements
 <code>Python 3.X</code> - Only lib used in the project was <code>sys</code>.
 
 # About crush
